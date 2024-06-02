@@ -1,4 +1,4 @@
-# Python-C2plus-Qt-Project-Recommentation2
+# Python-Cplus-Qt-Project-Learning-Study
 🔥🔥🔥Python/C++/Qt/项目推荐Project-Recommentation
 
 ## 在线协助
